@@ -1,0 +1,51 @@
+header {
+    width: 100vw;
+    height: 25vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div.logo img {
+    width: 40vw;
+    height: 25vh;
+    object-fit: contain;
+}
+div.carousel-inner {
+    height: 80vh;
+    width: 100vw;
+}
+div.carousel-inner img {
+    object-fit: contain;
+}
+section#satis {
+    width: 100vw;
+    height: 35vh;
+    background-color: #e2e2e2;
+    text-align: center;
+}
+section#kim {
+    text-align: center;
+    background-color: #dbb0b0;
+    width: 100vw;
+    height: 25vh;
+    font-size: 1.2rem;
+}
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 20vh;
+    width: 100vw;
+}
+div.tarih {
+    float: left;
+}
+div.yuzde {
+    margin-top: 2rem;
+}
+div.progress {
+    margin-top: 2rem;
+}
+div#prg1 {
+    margin-top: 1rem;
+}
